@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pikachim", "Pikachim\Pikachim.vcxproj", "{AEAE53C3-E637-4D67-AB5D-160D2BB75D32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEAE53C3-E637-4D67-AB5D-160D2BB75D32}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AEAE53C3-E637-4D67-AB5D-160D2BB75D32}.Debug|Win32.Build.0 = Debug|Win32
+		{AEAE53C3-E637-4D67-AB5D-160D2BB75D32}.Release|Win32.ActiveCfg = Release|Win32
+		{AEAE53C3-E637-4D67-AB5D-160D2BB75D32}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
